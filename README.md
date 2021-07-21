@@ -1,2 +1,2 @@
 # Analyzing NYC highschool data
- Data cleaning guidede project from Data Quest
+ Data cleaning guided project from Data Quest
